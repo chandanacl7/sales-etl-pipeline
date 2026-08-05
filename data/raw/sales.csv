@@ -1,0 +1,511 @@
+order_id,order_date,customer_id,sku,product_name,category,region,channel,quantity,unit_price
+ORD-00001,2026-01-07,CUST-0032,SKU-002,Mechanical Keyboard,Electronics,EMEA,online,2,129.00
+ORD-00002,06-01-2026,CUST-0004,SKU-002,Mechanical Keyboard,Electronics,APAC,online,4,129.00
+ORD-00003,24/05/2026,CUST-0070,SKU-001,Wireless Mouse,Electronics,LATAM,online,8,29.99
+ORD-00004,2026-07-27,CUST-0021,SKU-005,Ergonomic Chair,Furniture,LATAM,retail,5,249.00
+ORD-00005,02-25-2026,CUST-0044,SKU-003,USB-C Hub,Electronics,APAC,online,7,45.50
+ORD-00006,02/04/2026,CUST-0078,SKU-002,Mechanical Keyboard,Electronics,AMER,online,8,129.00
+ORD-00007,2026-04-07,CUST-0038,SKU-002,Mechanical Keyboard,Electronics,AMER,wholesale,4,129.00
+ORD-00008,01-12-2026,CUST-0038,SKU-002,Mechanical Keyboard,Electronics,APAC,online,2,129.00
+ORD-00009,13/03/2026,CUST-0047,SKU-007,Gel Pen Pack,Stationery,EMEA,retail,6,3.20
+ORD-00010,2026-06-21,CUST-0010,SKU-004,Standing Desk,Furniture,EMEA,wholesale,4,399.00
+ORD-00011,04-29-2026,CUST-0072,SKU-003,USB-C Hub,Electronics,EMEA,wholesale,6,45.50
+ORD-00012,28/02/2026,CUST-0041,SKU-001,Wireless Mouse,Electronics,LATAM,retail,2,29.99
+ORD-00013,2026-05-26,CUST-0041,SKU-004,Standing Desk,Furniture,EMEA,wholesale,8,399.00
+ORD-00014,06-14-2026,CUST-0034,SKU-007,Gel Pen Pack,Stationery,EMEA,online,9,3.20
+ORD-00015,11/07/2026,CUST-0075,SKU-005,Ergonomic Chair,Furniture,LATAM,retail,4,249.00
+ORD-00016,2026-05-11,CUST-0007,SKU-003,USB-C Hub,Electronics,APAC,online,3,45.50
+ORD-00017,06-02-2026,CUST-0049,SKU-007,Gel Pen Pack,Stationery,LATAM,wholesale,5,3.20
+ORD-00018,24/06/2026,CUST-0069,SKU-001,Wireless Mouse,Electronics,AMER,wholesale,6,29.99
+ORD-00019,2026-03-17,CUST-0059,SKU-002,Mechanical Keyboard,Electronics,APAC,wholesale,5,129.00
+ORD-00020,05-10-2026,CUST-0039,SKU-003,USB-C Hub,Electronics,EMEA,online,6,45.50
+ORD-00021,19/05/2026,CUST-0068,SKU-003,USB-C Hub,Electronics,APAC,wholesale,6,45.50
+ORD-00022,2026-01-05,CUST-0047,SKU-008,Coffee Beans 1kg,Grocery,AMER,online,1,18.90
+ORD-00023,05-26-2026,CUST-0011,SKU-004,Standing Desk,Furniture,LATAM,online,9,399.00
+ORD-00024,02/02/2026,CUST-0071,SKU-003,USB-C Hub,Electronics,EMEA,retail,9,45.50
+ORD-00025,2026-02-24,CUST-0026,SKU-007,Gel Pen Pack,Stationery,AMER,retail,6,3.20
+ORD-00026,05-13-2026,CUST-0032,SKU-008,Coffee Beans 1kg,Grocery,EMEA,online,6,18.90
+ORD-00027,31/05/2026,CUST-0076,SKU-001,Wireless Mouse,Electronics,EMEA,online,2,29.99
+ORD-00028,2026-02-28,CUST-0005,SKU-001,Wireless Mouse,Electronics,AMER,online,9,29.99
+ORD-00029,03-13-2026,CUST-0028,SKU-004,Standing Desk,Furniture,EMEA,wholesale,10,399.00
+ORD-00030,04/03/2026,CUST-0053,SKU-008,Coffee Beans 1kg,Grocery,EMEA,online,2,18.90
+ORD-00031,2026-04-01,CUST-0060,SKU-007,Gel Pen Pack,Stationery,APAC,wholesale,2,3.20
+ORD-00032,04-14-2026,CUST-0014,SKU-001,Wireless Mouse,Electronics,EMEA,online,4,29.99
+ORD-00033,05/02/2026,CUST-0036,SKU-008,Coffee Beans 1kg,Grocery,LATAM,online,2,18.90
+ORD-00034,2026-07-26,CUST-0071,SKU-008,Coffee Beans 1kg,Grocery,APAC,online,9,18.90
+ORD-00035,01-24-2026,CUST-0031,SKU-001,Wireless Mouse,Electronics,EMEA,retail,8,29.99
+ORD-00036,24/02/2026,CUST-0008,SKU-008,Coffee Beans 1kg,Grocery,EMEA,retail,1,18.90
+ORD-00037,2026-03-09,CUST-0059,SKU-007,Gel Pen Pack,Stationery,AMER,retail,9,3.20
+ORD-00038,02-09-2026,CUST-0028,SKU-008,Coffee Beans 1kg,Grocery,APAC,wholesale,9,18.90
+ORD-00039,11/07/2026,CUST-0007,SKU-001,Wireless Mouse,Electronics,LATAM,wholesale,9,29.99
+ORD-00040,2026-01-15,CUST-0011,SKU-003,USB-C Hub,Electronics,EMEA,online,10,45.50
+ORD-00041,06-22-2026,CUST-0052,SKU-002,Mechanical Keyboard,Electronics,APAC,wholesale,4,129.00
+ORD-00042,08/06/2026,CUST-0075,SKU-001,Wireless Mouse,Electronics,AMER,retail,4,29.99
+ORD-00043,2026-03-03,CUST-0017,SKU-006,Notebook A5,Stationery,AMER,retail,6,6.75
+ORD-00044,01-03-2026,CUST-0073,SKU-002,Mechanical Keyboard,Electronics,APAC,online,9,129.00
+ORD-00045,10/05/2026,CUST-0045,SKU-004,Standing Desk,Furniture,APAC,online,6,399.00
+ORD-00046,2026-02-10,CUST-0070,SKU-005,Ergonomic Chair,Furniture,AMER,wholesale,9,249.00
+ORD-00047,06-20-2026,CUST-0039,SKU-001,Wireless Mouse,Electronics,APAC,online,5,29.99
+ORD-00048,28/01/2026,CUST-0020,SKU-002,Mechanical Keyboard,Electronics,AMER,retail,10,129.00
+ORD-00049,2026-07-03,CUST-0034,SKU-004,Standing Desk,Furniture,LATAM,retail,1,399.00
+ORD-00050,06-12-2026,CUST-0036,SKU-002,Mechanical Keyboard,Electronics,APAC,online,6,129.00
+ORD-00051,13/06/2026,CUST-0021,SKU-003,USB-C Hub,Electronics,LATAM,wholesale,7,45.50
+ORD-00052,2026-01-29,CUST-0020,SKU-001,Wireless Mouse,Electronics,APAC,retail,10,29.99
+ORD-00053,04-21-2026,CUST-0040,SKU-003,USB-C Hub,Electronics,AMER,online,6,45.50
+ORD-00054,24/06/2026,CUST-0014,SKU-004,Standing Desk,Furniture,AMER,wholesale,7,399.00
+ORD-00055,2026-03-02,CUST-0023,SKU-003,USB-C Hub,Electronics,LATAM,online,3,45.50
+ORD-00056,07-20-2026,CUST-0032,SKU-006,Notebook A5,Stationery,AMER,online,2,6.75
+ORD-00057,10/01/2026,CUST-0029,SKU-007,Gel Pen Pack,Stationery,EMEA,retail,6,3.20
+ORD-00058,2026-07-30,CUST-0030,SKU-005,Ergonomic Chair,Furniture,EMEA,online,4,249.00
+ORD-00059,03-26-2026,CUST-0009,SKU-007,Gel Pen Pack,Stationery,AMER,retail,9,3.20
+ORD-00060,23/06/2026,CUST-0069,SKU-007,Gel Pen Pack,Stationery,AMER,online,2,3.20
+ORD-00061,2026-02-15,CUST-0034,SKU-005,Ergonomic Chair,Furniture,APAC,online,10,249.00
+ORD-00062,03-30-2026,CUST-0041,SKU-007,Gel Pen Pack,Stationery,LATAM,wholesale,9,3.20
+ORD-00063,09/04/2026,CUST-0025,SKU-002,Mechanical Keyboard,Electronics,AMER,online,7,129.00
+ORD-00064,2026-05-14,CUST-0069,SKU-001,Wireless Mouse,Electronics,EMEA,retail,7,29.99
+ORD-00065,06-20-2026,CUST-0080,SKU-002,Mechanical Keyboard,Electronics,AMER,wholesale,2,129.00
+ORD-00066,10/05/2026,CUST-0053,SKU-005,Ergonomic Chair,Furniture,AMER,retail,5,249.00
+ORD-00067,2026-02-19,CUST-0049,SKU-003,USB-C Hub,Electronics,EMEA,wholesale,10,45.50
+ORD-00068,04-14-2026,CUST-0001,SKU-005,Ergonomic Chair,Furniture,AMER,retail,4,249.00
+ORD-00069,21/07/2026,CUST-0042,SKU-007,Gel Pen Pack,Stationery,LATAM,retail,8,3.20
+ORD-00070,2026-05-11,CUST-0022,SKU-004,Standing Desk,Furniture,APAC,retail,9,399.00
+ORD-00071,01-24-2026,CUST-0031,SKU-006,Notebook A5,Stationery,AMER,online,4,6.75
+ORD-00072,,CUST-0061,SKU-003,USB-C Hub,Electronics,,wholesale,2,45.50
+ORD-00073,2026-04-17,CUST-0074,SKU-008,Coffee Beans 1kg,Grocery,EMEA,wholesale,7,18.90
+ORD-00074,04-13-2026,CUST-0001,SKU-008,Coffee Beans 1kg,Grocery,APAC,retail,4,18.90
+ORD-00075,25/07/2026,CUST-0067,SKU-003,USB-C Hub,Electronics,LATAM,online,9,45.50
+ORD-00076,2026-02-01,CUST-0060,SKU-004,Standing Desk,Furniture,AMER,retail,10,399.00
+ORD-00077,05-21-2026,CUST-0021,SKU-007,Gel Pen Pack,Stationery,LATAM,retail,5,3.20
+ORD-00078,13/06/2026,CUST-0067,SKU-004,Standing Desk,Furniture,LATAM,wholesale,4,399.00
+ORD-00079,2026-04-23,CUST-0037,SKU-005,Ergonomic Chair,Furniture,EMEA,retail,6,249.00
+ORD-00080,05-19-2026,CUST-0020,SKU-006,Notebook A5,Stationery,EMEA,retail,3,6.75
+ORD-00081,17/01/2026,CUST-0043,SKU-004,Standing Desk,Furniture,LATAM,retail,1,399.00
+ORD-00082,2026-04-18,CUST-0075,SKU-004,Standing Desk,Furniture,APAC,wholesale,7,399.00
+ORD-00083,01-02-2026,CUST-0039,SKU-008,Coffee Beans 1kg,Grocery,LATAM,retail,9,18.90
+ORD-00084,05/05/2026,CUST-0056,SKU-004,Standing Desk,Furniture,LATAM,online,7,399.00
+ORD-00085,2026-06-21,CUST-0052,SKU-006,Notebook A5,Stationery,EMEA,retail,3,6.75
+ORD-00086,04-11-2026,CUST-0004,SKU-001,Wireless Mouse,Electronics,APAC,wholesale,7,29.99
+ORD-00087,29/04/2026,CUST-0034,SKU-003,USB-C Hub,Electronics,LATAM,retail,4,45.50
+ORD-00088,2026-03-25,CUST-0049,SKU-008,Coffee Beans 1kg,Grocery,AMER,retail,5,18.90
+ORD-00089,,CUST-0070,SKU-002,Mechanical Keyboard,Electronics,,online,6,129.00
+ORD-00090,16/06/2026,CUST-0006,SKU-004,Standing Desk,Furniture,APAC,online,4,399.00
+ORD-00091,2026-06-09,CUST-0017,SKU-001,Wireless Mouse,Electronics,LATAM,wholesale,2,29.99
+ORD-00092,04-30-2026,CUST-0048,SKU-004,Standing Desk,Furniture,EMEA,wholesale,10,399.00
+ORD-00093,19/07/2026,CUST-0040,SKU-002,Mechanical Keyboard,Electronics,APAC,wholesale,1,129.00
+ORD-00094,2026-05-28,CUST-0049,SKU-005,Ergonomic Chair,Furniture,LATAM,wholesale,4,249.00
+ORD-00095,06-01-2026,CUST-0032,SKU-002,Mechanical Keyboard,Electronics,APAC,wholesale,5,129.00
+ORD-00096,23/07/2026,CUST-0006,SKU-002,Mechanical Keyboard,Electronics,AMER,wholesale,7,129.00
+ORD-00097,2026-01-18,CUST-0044,SKU-006,Notebook A5,Stationery,APAC,retail,8,6.75
+ORD-00098,04-21-2026,CUST-0059,SKU-002,Mechanical Keyboard,Electronics,EMEA,retail,3,129.00
+ORD-00099,07/06/2026,CUST-0069,SKU-005,Ergonomic Chair,Furniture,LATAM,retail,7,249.00
+ORD-00100,2026-03-24,CUST-0012,SKU-005,Ergonomic Chair,Furniture,AMER,retail,4,249.00
+ORD-00101,05-26-2026,CUST-0049,SKU-008,Coffee Beans 1kg,Grocery,AMER,online,8,18.90
+ORD-00102,16/02/2026,CUST-0046,SKU-006,Notebook A5,Stationery,AMER,retail,5,6.75
+ORD-00103,,CUST-0025,SKU-005,Ergonomic Chair,Furniture,,online,4,249.00
+ORD-00104,05-06-2026,CUST-0031,SKU-007,Gel Pen Pack,Stationery,LATAM,wholesale,8,3.20
+ORD-00105,,CUST-0038,SKU-008,Coffee Beans 1kg,Grocery,,online,7,18.90
+ORD-00106,2026-03-20,CUST-0048,SKU-004,Standing Desk,Furniture,LATAM,wholesale,9,399.00
+ORD-00107,04-19-2026,CUST-0071,SKU-006,Notebook A5,Stationery,AMER,retail,8,6.75
+ORD-00108,20/03/2026,CUST-0016,SKU-005,Ergonomic Chair,Furniture,EMEA,retail,2,249.00
+ORD-00109,2026-02-19,CUST-0062,SKU-003,USB-C Hub,Electronics,AMER,wholesale,10,45.50
+ORD-00110,01-26-2026,CUST-0038,SKU-005,Ergonomic Chair,Furniture,EMEA,retail,3,249.00
+ORD-00111,04/01/2026,CUST-0017,SKU-005,Ergonomic Chair,Furniture,AMER,online,1,249.00
+ORD-00112,2026-06-28,CUST-0063,SKU-005,Ergonomic Chair,Furniture,APAC,online,10,249.00
+ORD-00113,05-01-2026,CUST-0044,SKU-005,Ergonomic Chair,Furniture,EMEA,online,5,249.00
+ORD-00114,30/01/2026,CUST-0052,SKU-008,Coffee Beans 1kg,Grocery,LATAM,online,10,18.90
+ORD-00115,2026-02-08,CUST-0073,SKU-001,Wireless Mouse,Electronics,AMER,online,4,29.99
+ORD-00116,05-23-2026,CUST-0078,SKU-002,Mechanical Keyboard,Electronics,EMEA,wholesale,7,129.00
+ORD-00117,24/04/2026,CUST-0076,SKU-008,Coffee Beans 1kg,Grocery,LATAM,retail,10,18.90
+ORD-00118,2026-06-06,CUST-0013,SKU-001,Wireless Mouse,Electronics,EMEA,wholesale,4,29.99
+ORD-00119,06-19-2026,CUST-0031,SKU-005,Ergonomic Chair,Furniture,EMEA,wholesale,2,249.00
+ORD-00120,01/01/2026,CUST-0077,SKU-003,USB-C Hub,Electronics,LATAM,retail,1,45.50
+ORD-00121,2026-03-15,CUST-0059,SKU-004,Standing Desk,Furniture,APAC,wholesale,4,399.00
+ORD-00122,07-21-2026,CUST-0076,SKU-005,Ergonomic Chair,Furniture,EMEA,retail,2,249.00
+ORD-00123,15/06/2026,CUST-0035,SKU-004,Standing Desk,Furniture,EMEA,online,1,399.00
+ORD-00124,2026-07-22,CUST-0073,SKU-003,USB-C Hub,Electronics,AMER,retail,2,45.50
+ORD-00125,06-26-2026,CUST-0052,SKU-008,Coffee Beans 1kg,Grocery,AMER,wholesale,9,18.90
+ORD-00126,23/04/2026,CUST-0006,SKU-008,Coffee Beans 1kg,Grocery,LATAM,wholesale,6,18.90
+ORD-00127,2026-01-07,CUST-0074,SKU-005,Ergonomic Chair,Furniture,APAC,wholesale,5,249.00
+ORD-00128,07-15-2026,CUST-0061,SKU-001,Wireless Mouse,Electronics,LATAM,retail,3,29.99
+ORD-00129,12/06/2026,CUST-0012,SKU-007,Gel Pen Pack,Stationery,LATAM,retail,7,3.20
+ORD-00130,2026-03-24,CUST-0021,SKU-006,Notebook A5,Stationery,AMER,retail,8,6.75
+ORD-00131,06-19-2026,CUST-0071,SKU-005,Ergonomic Chair,Furniture,APAC,retail,2,249.00
+ORD-00132,06/03/2026,CUST-0052,SKU-006,Notebook A5,Stationery,APAC,wholesale,9,6.75
+ORD-00133,2026-04-16,CUST-0067,SKU-008,Coffee Beans 1kg,Grocery,AMER,wholesale,8,18.90
+ORD-00134,07-14-2026,CUST-0035,SKU-008,Coffee Beans 1kg,Grocery,EMEA,retail,8,18.90
+ORD-00135,,CUST-0078,SKU-008,Coffee Beans 1kg,Grocery,,online,3,18.90
+ORD-00136,,CUST-0053,SKU-005,Ergonomic Chair,Furniture,,online,4,249.00
+ORD-00137,04-29-2026,CUST-0020,SKU-002,Mechanical Keyboard,Electronics,LATAM,wholesale,5,129.00
+ORD-00138,17/04/2026,CUST-0061,SKU-005,Ergonomic Chair,Furniture,EMEA,retail,9,249.00
+ORD-00139,2026-04-09,CUST-0077,SKU-003,USB-C Hub,Electronics,EMEA,online,5,45.50
+ORD-00140,03-29-2026,CUST-0065,SKU-007,Gel Pen Pack,Stationery,AMER,online,5,3.20
+ORD-00141,31/05/2026,CUST-0063,SKU-005,Ergonomic Chair,Furniture,EMEA,retail,9,249.00
+ORD-00142,2026-03-30,CUST-0070,SKU-008,Coffee Beans 1kg,Grocery,LATAM,retail,6,18.90
+ORD-00143,06-28-2026,CUST-0050,SKU-004,Standing Desk,Furniture,EMEA,retail,1,399.00
+ORD-00144,10/07/2026,CUST-0049,SKU-006,Notebook A5,Stationery,LATAM,wholesale,3,6.75
+ORD-00145,2026-01-10,CUST-0076,SKU-008,Coffee Beans 1kg,Grocery,AMER,online,8,18.90
+ORD-00146,05-15-2026,CUST-0002,SKU-002,Mechanical Keyboard,Electronics,EMEA,retail,3,129.00
+ORD-00147,01/05/2026,CUST-0034,SKU-002,Mechanical Keyboard,Electronics,AMER,wholesale,7,129.00
+ORD-00148,2026-03-26,CUST-0069,SKU-002,Mechanical Keyboard,Electronics,LATAM,retail,8,129.00
+ORD-00149,06-08-2026,CUST-0037,SKU-001,Wireless Mouse,Electronics,EMEA,wholesale,2,29.99
+ORD-00150,26/01/2026,CUST-0013,SKU-007,Gel Pen Pack,Stationery,LATAM,online,5,3.20
+ORD-00151,2026-01-12,CUST-0008,SKU-001,Wireless Mouse,Electronics,AMER,retail,6,29.99
+ORD-00152,02-07-2026,CUST-0053,SKU-007,Gel Pen Pack,Stationery,EMEA,online,3,3.20
+ORD-00153,06/06/2026,CUST-0080,SKU-002,Mechanical Keyboard,Electronics,EMEA,retail,10,129.00
+ORD-00154,2026-03-01,CUST-0033,SKU-003,USB-C Hub,Electronics,LATAM,retail,1,45.50
+ORD-00155,03-15-2026,CUST-0021,SKU-008,Coffee Beans 1kg,Grocery,APAC,retail,6,18.90
+ORD-00156,13/06/2026,CUST-0033,SKU-005,Ergonomic Chair,Furniture,LATAM,retail,4,249.00
+ORD-00157,2026-05-04,CUST-0049,SKU-007,Gel Pen Pack,Stationery,AMER,wholesale,5,3.20
+ORD-00158,01-06-2026,CUST-0051,SKU-005,Ergonomic Chair,Furniture,AMER,online,10,249.00
+ORD-00159,05/06/2026,CUST-0037,SKU-001,Wireless Mouse,Electronics,EMEA,wholesale,6,29.99
+ORD-00160,2026-06-12,CUST-0033,SKU-004,Standing Desk,Furniture,EMEA,wholesale,2,399.00
+ORD-00161,03-21-2026,CUST-0005,SKU-001,Wireless Mouse,Electronics,AMER,wholesale,3,29.99
+ORD-00162,17/03/2026,CUST-0054,SKU-002,Mechanical Keyboard,Electronics,EMEA,online,3,129.00
+ORD-00163,2026-05-16,CUST-0035,SKU-006,Notebook A5,Stationery,EMEA,retail,8,6.75
+ORD-00164,07-11-2026,CUST-0015,SKU-005,Ergonomic Chair,Furniture,LATAM,online,3,249.00
+ORD-00165,23/06/2026,CUST-0051,SKU-004,Standing Desk,Furniture,AMER,online,7,399.00
+ORD-00166,2026-03-09,CUST-0059,SKU-001,Wireless Mouse,Electronics,AMER,wholesale,5,29.99
+ORD-00167,07-30-2026,CUST-0048,SKU-007,Gel Pen Pack,Stationery,APAC,wholesale,4,3.20
+ORD-00168,07/01/2026,CUST-0072,SKU-008,Coffee Beans 1kg,Grocery,AMER,wholesale,4,18.90
+ORD-00169,2026-06-12,CUST-0039,SKU-002,Mechanical Keyboard,Electronics,LATAM,online,3,129.00
+ORD-00170,01-10-2026,CUST-0064,SKU-001,Wireless Mouse,Electronics,APAC,online,4,29.99
+ORD-00171,10/04/2026,CUST-0070,SKU-003,USB-C Hub,Electronics,LATAM,wholesale,3,45.50
+ORD-00172,2026-06-17,CUST-0063,SKU-007,Gel Pen Pack,Stationery,LATAM,retail,1,3.20
+ORD-00173,02-25-2026,CUST-0031,SKU-006,Notebook A5,Stationery,AMER,online,6,6.75
+ORD-00174,16/01/2026,CUST-0025,SKU-006,Notebook A5,Stationery,APAC,retail,2,6.75
+ORD-00175,2026-06-14,CUST-0003,SKU-004,Standing Desk,Furniture,APAC,retail,4,399.00
+ORD-00176,07-21-2026,CUST-0009,SKU-003,USB-C Hub,Electronics,EMEA,wholesale,4,45.50
+ORD-00177,26/03/2026,CUST-0077,SKU-004,Standing Desk,Furniture,APAC,retail,3,399.00
+ORD-00178,2026-05-19,CUST-0023,SKU-003,USB-C Hub,Electronics,APAC,wholesale,1,45.50
+ORD-00179,01-04-2026,CUST-0031,SKU-003,USB-C Hub,Electronics,AMER,online,3,45.50
+ORD-00180,14/01/2026,CUST-0054,SKU-005,Ergonomic Chair,Furniture,APAC,wholesale,2,249.00
+ORD-00181,2026-04-25,CUST-0066,SKU-008,Coffee Beans 1kg,Grocery,APAC,retail,9,18.90
+ORD-00182,,CUST-0067,SKU-004,Standing Desk,Furniture,,retail,8,399.00
+ORD-00183,16/01/2026,CUST-0052,SKU-001,Wireless Mouse,Electronics,LATAM,wholesale,2,29.99
+ORD-00184,2026-07-02,CUST-0010,SKU-008,Coffee Beans 1kg,Grocery,APAC,retail,10,18.90
+ORD-00185,01-17-2026,CUST-0080,SKU-003,USB-C Hub,Electronics,AMER,retail,10,45.50
+ORD-00186,27/04/2026,CUST-0056,SKU-005,Ergonomic Chair,Furniture,APAC,wholesale,2,249.00
+ORD-00187,2026-04-21,CUST-0030,SKU-004,Standing Desk,Furniture,LATAM,retail,8,399.00
+ORD-00188,04-17-2026,CUST-0041,SKU-007,Gel Pen Pack,Stationery,LATAM,retail,5,3.20
+ORD-00189,09/02/2026,CUST-0061,SKU-006,Notebook A5,Stationery,APAC,online,2,6.75
+ORD-00190,2026-04-21,CUST-0048,SKU-002,Mechanical Keyboard,Electronics,EMEA,wholesale,1,129.00
+ORD-00191,06-21-2026,CUST-0046,SKU-006,Notebook A5,Stationery,LATAM,wholesale,1,6.75
+ORD-00192,03/06/2026,CUST-0014,SKU-005,Ergonomic Chair,Furniture,EMEA,online,8,249.00
+ORD-00193,2026-01-28,CUST-0072,SKU-004,Standing Desk,Furniture,AMER,online,5,399.00
+ORD-00194,07-26-2026,CUST-0072,SKU-004,Standing Desk,Furniture,APAC,wholesale,5,399.00
+ORD-00195,16/02/2026,CUST-0040,SKU-001,Wireless Mouse,Electronics,AMER,retail,1,29.99
+ORD-00196,2026-02-06,CUST-0052,SKU-003,USB-C Hub,Electronics,APAC,online,1,45.50
+ORD-00197,07-11-2026,CUST-0049,SKU-002,Mechanical Keyboard,Electronics,LATAM,retail,6,129.00
+ORD-00198,05/04/2026,CUST-0042,SKU-003,USB-C Hub,Electronics,APAC,online,3,45.50
+ORD-00199,2026-07-13,CUST-0011,SKU-003,USB-C Hub,Electronics,AMER,retail,7,45.50
+ORD-00200,06-05-2026,CUST-0035,SKU-008,Coffee Beans 1kg,Grocery,EMEA,wholesale,2,18.90
+ORD-00201,21/04/2026,CUST-0076,SKU-006,Notebook A5,Stationery,LATAM,wholesale,5,6.75
+ORD-00202,2026-02-26,CUST-0077,SKU-001,Wireless Mouse,Electronics,APAC,online,4,29.99
+ORD-00203,02-24-2026,CUST-0033,SKU-005,Ergonomic Chair,Furniture,AMER,retail,2,249.00
+ORD-00204,08/05/2026,CUST-0023,SKU-001,Wireless Mouse,Electronics,EMEA,retail,9,29.99
+ORD-00205,2026-05-09,CUST-0046,SKU-004,Standing Desk,Furniture,APAC,retail,1,399.00
+ORD-00206,01-05-2026,CUST-0010,SKU-007,Gel Pen Pack,Stationery,AMER,wholesale,7,3.20
+ORD-00207,01/07/2026,CUST-0038,SKU-007,Gel Pen Pack,Stationery,APAC,retail,1,3.20
+ORD-00208,2026-02-13,CUST-0080,SKU-006,Notebook A5,Stationery,LATAM,wholesale,6,6.75
+ORD-00209,04-22-2026,CUST-0032,SKU-002,Mechanical Keyboard,Electronics,LATAM,wholesale,7,129.00
+ORD-00210,12/04/2026,CUST-0044,SKU-002,Mechanical Keyboard,Electronics,EMEA,retail,3,129.00
+ORD-00211,2026-05-11,CUST-0068,SKU-002,Mechanical Keyboard,Electronics,EMEA,retail,6,129.00
+ORD-00212,03-02-2026,CUST-0033,SKU-003,USB-C Hub,Electronics,EMEA,online,10,45.50
+ORD-00213,14/07/2026,CUST-0010,SKU-003,USB-C Hub,Electronics,EMEA,wholesale,8,45.50
+ORD-00214,2026-07-13,CUST-0075,SKU-008,Coffee Beans 1kg,Grocery,LATAM,wholesale,10,18.90
+ORD-00215,06-10-2026,CUST-0057,SKU-006,Notebook A5,Stationery,APAC,retail,8,6.75
+ORD-00216,23/07/2026,CUST-0008,SKU-005,Ergonomic Chair,Furniture,AMER,wholesale,2,249.00
+ORD-00217,2026-04-29,CUST-0008,SKU-005,Ergonomic Chair,Furniture,AMER,retail,2,249.00
+ORD-00218,06-07-2026,CUST-0050,SKU-002,Mechanical Keyboard,Electronics,LATAM,wholesale,9,129.00
+ORD-00219,26/04/2026,CUST-0074,SKU-001,Wireless Mouse,Electronics,EMEA,retail,10,29.99
+ORD-00220,2026-05-09,CUST-0008,SKU-008,Coffee Beans 1kg,Grocery,LATAM,online,6,18.90
+ORD-00221,05-10-2026,CUST-0006,SKU-002,Mechanical Keyboard,Electronics,EMEA,wholesale,8,129.00
+ORD-00222,15/05/2026,CUST-0021,SKU-008,Coffee Beans 1kg,Grocery,AMER,retail,5,18.90
+ORD-00223,2026-04-15,CUST-0077,SKU-007,Gel Pen Pack,Stationery,APAC,wholesale,6,3.20
+ORD-00224,03-26-2026,CUST-0050,SKU-002,Mechanical Keyboard,Electronics,AMER,retail,10,129.00
+ORD-00225,27/03/2026,CUST-0019,SKU-003,USB-C Hub,Electronics,AMER,retail,7,45.50
+ORD-00226,2026-06-02,CUST-0011,SKU-003,USB-C Hub,Electronics,AMER,wholesale,7,45.50
+ORD-00227,07-28-2026,CUST-0068,SKU-006,Notebook A5,Stationery,APAC,wholesale,7,6.75
+ORD-00228,05/01/2026,CUST-0024,SKU-006,Notebook A5,Stationery,EMEA,retail,8,6.75
+ORD-00229,2026-02-27,CUST-0020,SKU-004,Standing Desk,Furniture,APAC,retail,2,399.00
+ORD-00230,06-19-2026,CUST-0080,SKU-001,Wireless Mouse,Electronics,EMEA,wholesale,7,29.99
+ORD-00231,11/02/2026,CUST-0080,SKU-003,USB-C Hub,Electronics,EMEA,wholesale,8,45.50
+ORD-00232,2026-04-16,CUST-0031,SKU-001,Wireless Mouse,Electronics,LATAM,wholesale,5,29.99
+ORD-00233,03-01-2026,CUST-0040,SKU-008,Coffee Beans 1kg,Grocery,LATAM,online,6,18.90
+ORD-00234,29/04/2026,CUST-0049,SKU-008,Coffee Beans 1kg,Grocery,LATAM,online,4,18.90
+ORD-00235,2026-03-06,CUST-0062,SKU-003,USB-C Hub,Electronics,AMER,wholesale,2,45.50
+ORD-00236,03-14-2026,CUST-0021,SKU-002,Mechanical Keyboard,Electronics,AMER,retail,9,129.00
+ORD-00237,22/04/2026,CUST-0029,SKU-003,USB-C Hub,Electronics,LATAM,retail,1,45.50
+ORD-00238,2026-01-14,CUST-0048,SKU-007,Gel Pen Pack,Stationery,EMEA,retail,2,3.20
+ORD-00239,,CUST-0013,SKU-006,Notebook A5,Stationery,,wholesale,6,6.75
+ORD-00240,,CUST-0061,SKU-003,USB-C Hub,Electronics,,wholesale,3,45.50
+ORD-00241,2026-04-25,CUST-0011,SKU-008,Coffee Beans 1kg,Grocery,APAC,retail,4,18.90
+ORD-00242,05-21-2026,CUST-0078,SKU-003,USB-C Hub,Electronics,LATAM,online,5,45.50
+ORD-00243,19/03/2026,CUST-0031,SKU-004,Standing Desk,Furniture,LATAM,wholesale,10,399.00
+ORD-00244,2026-01-17,CUST-0064,SKU-008,Coffee Beans 1kg,Grocery,APAC,wholesale,9,18.90
+ORD-00245,07-03-2026,CUST-0055,SKU-004,Standing Desk,Furniture,APAC,wholesale,6,399.00
+ORD-00246,27/05/2026,CUST-0011,SKU-004,Standing Desk,Furniture,AMER,online,9,399.00
+ORD-00247,2026-04-10,CUST-0006,SKU-001,Wireless Mouse,Electronics,LATAM,retail,5,29.99
+ORD-00248,04-02-2026,CUST-0045,SKU-001,Wireless Mouse,Electronics,EMEA,wholesale,2,29.99
+ORD-00249,,CUST-0070,SKU-006,Notebook A5,Stationery,,retail,3,6.75
+ORD-00250,2026-06-28,CUST-0024,SKU-008,Coffee Beans 1kg,Grocery,EMEA,online,8,18.90
+ORD-00251,03-17-2026,CUST-0026,SKU-001,Wireless Mouse,Electronics,APAC,retail,5,29.99
+ORD-00252,28/07/2026,CUST-0033,SKU-007,Gel Pen Pack,Stationery,APAC,wholesale,4,3.20
+ORD-00253,2026-04-02,CUST-0007,SKU-005,Ergonomic Chair,Furniture,AMER,retail,2,249.00
+ORD-00254,04-22-2026,CUST-0057,SKU-006,Notebook A5,Stationery,LATAM,retail,3,6.75
+ORD-00255,27/06/2026,CUST-0067,SKU-008,Coffee Beans 1kg,Grocery,AMER,online,7,18.90
+ORD-00256,2026-04-21,CUST-0024,SKU-002,Mechanical Keyboard,Electronics,AMER,retail,2,129.00
+ORD-00257,03-25-2026,CUST-0040,SKU-002,Mechanical Keyboard,Electronics,LATAM,wholesale,7,129.00
+ORD-00258,26/06/2026,CUST-0058,SKU-003,USB-C Hub,Electronics,APAC,wholesale,6,45.50
+ORD-00259,2026-03-12,CUST-0008,SKU-007,Gel Pen Pack,Stationery,APAC,wholesale,7,3.20
+ORD-00260,05-12-2026,CUST-0021,SKU-006,Notebook A5,Stationery,APAC,online,10,6.75
+ORD-00261,09/01/2026,CUST-0031,SKU-008,Coffee Beans 1kg,Grocery,AMER,retail,7,18.90
+ORD-00262,2026-06-04,CUST-0058,SKU-001,Wireless Mouse,Electronics,AMER,retail,8,29.99
+ORD-00263,05-27-2026,CUST-0047,SKU-002,Mechanical Keyboard,Electronics,LATAM,retail,5,129.00
+ORD-00264,,CUST-0024,SKU-004,Standing Desk,Furniture,,retail,9,399.00
+ORD-00265,2026-05-24,CUST-0034,SKU-007,Gel Pen Pack,Stationery,LATAM,online,10,3.20
+ORD-00266,06-27-2026,CUST-0063,SKU-005,Ergonomic Chair,Furniture,EMEA,online,3,249.00
+ORD-00267,26/04/2026,CUST-0057,SKU-002,Mechanical Keyboard,Electronics,APAC,wholesale,6,129.00
+ORD-00268,2026-07-01,CUST-0070,SKU-006,Notebook A5,Stationery,AMER,retail,3,6.75
+ORD-00269,07-23-2026,CUST-0029,SKU-003,USB-C Hub,Electronics,APAC,online,3,45.50
+ORD-00270,22/07/2026,CUST-0047,SKU-004,Standing Desk,Furniture,AMER,retail,9,399.00
+ORD-00271,2026-06-06,CUST-0009,SKU-003,USB-C Hub,Electronics,AMER,retail,8,45.50
+ORD-00272,07-16-2026,CUST-0074,SKU-007,Gel Pen Pack,Stationery,APAC,online,6,3.20
+ORD-00273,26/04/2026,CUST-0067,SKU-002,Mechanical Keyboard,Electronics,AMER,online,9,129.00
+ORD-00274,2026-07-16,CUST-0056,SKU-003,USB-C Hub,Electronics,APAC,online,9,45.50
+ORD-00275,03-19-2026,CUST-0042,SKU-003,USB-C Hub,Electronics,EMEA,retail,9,45.50
+ORD-00276,21/01/2026,CUST-0071,SKU-005,Ergonomic Chair,Furniture,AMER,online,5,249.00
+ORD-00277,2026-05-09,CUST-0076,SKU-002,Mechanical Keyboard,Electronics,EMEA,online,10,129.00
+ORD-00278,,CUST-0004,SKU-006,Notebook A5,Stationery,,online,1,6.75
+ORD-00279,16/06/2026,CUST-0074,SKU-005,Ergonomic Chair,Furniture,LATAM,wholesale,1,249.00
+ORD-00280,2026-06-10,CUST-0039,SKU-008,Coffee Beans 1kg,Grocery,LATAM,online,7,18.90
+ORD-00281,04-27-2026,CUST-0008,SKU-005,Ergonomic Chair,Furniture,EMEA,retail,7,249.00
+ORD-00282,29/04/2026,CUST-0078,SKU-008,Coffee Beans 1kg,Grocery,EMEA,retail,6,18.90
+ORD-00283,2026-04-13,CUST-0048,SKU-006,Notebook A5,Stationery,APAC,retail,4,6.75
+ORD-00284,02-01-2026,CUST-0032,SKU-008,Coffee Beans 1kg,Grocery,EMEA,online,1,18.90
+ORD-00285,09/04/2026,CUST-0054,SKU-005,Ergonomic Chair,Furniture,EMEA,online,6,249.00
+ORD-00286,2026-02-18,CUST-0064,SKU-006,Notebook A5,Stationery,LATAM,retail,5,6.75
+ORD-00287,01-06-2026,CUST-0051,SKU-008,Coffee Beans 1kg,Grocery,LATAM,online,4,18.90
+ORD-00288,13/01/2026,CUST-0064,SKU-006,Notebook A5,Stationery,LATAM,retail,9,6.75
+ORD-00289,2026-01-28,CUST-0034,SKU-001,Wireless Mouse,Electronics,AMER,retail,6,29.99
+ORD-00290,04-13-2026,CUST-0072,SKU-001,Wireless Mouse,Electronics,EMEA,retail,9,29.99
+ORD-00291,19/01/2026,CUST-0058,SKU-005,Ergonomic Chair,Furniture,AMER,wholesale,10,249.00
+ORD-00292,2026-02-02,CUST-0051,SKU-002,Mechanical Keyboard,Electronics,AMER,retail,9,129.00
+ORD-00293,07-13-2026,CUST-0078,SKU-006,Notebook A5,Stationery,LATAM,wholesale,1,6.75
+ORD-00294,10/01/2026,CUST-0043,SKU-001,Wireless Mouse,Electronics,LATAM,wholesale,8,29.99
+ORD-00295,2026-06-05,CUST-0018,SKU-003,USB-C Hub,Electronics,AMER,wholesale,6,45.50
+ORD-00296,04-11-2026,CUST-0039,SKU-003,USB-C Hub,Electronics,AMER,wholesale,9,45.50
+ORD-00297,01/07/2026,CUST-0061,SKU-008,Coffee Beans 1kg,Grocery,APAC,retail,6,18.90
+ORD-00298,2026-04-17,CUST-0004,SKU-002,Mechanical Keyboard,Electronics,LATAM,retail,10,129.00
+ORD-00299,07-04-2026,CUST-0062,SKU-004,Standing Desk,Furniture,EMEA,wholesale,10,399.00
+ORD-00300,07/02/2026,CUST-0032,SKU-007,Gel Pen Pack,Stationery,APAC,wholesale,2,3.20
+ORD-00301,2026-01-05,CUST-0054,SKU-004,Standing Desk,Furniture,EMEA,retail,4,399.00
+ORD-00302,05-09-2026,CUST-0061,SKU-007,Gel Pen Pack,Stationery,APAC,wholesale,3,3.20
+ORD-00303,24/05/2026,CUST-0062,SKU-004,Standing Desk,Furniture,LATAM,retail,3,399.00
+ORD-00304,2026-05-17,CUST-0046,SKU-008,Coffee Beans 1kg,Grocery,AMER,wholesale,8,18.90
+ORD-00305,03-05-2026,CUST-0039,SKU-004,Standing Desk,Furniture,EMEA,retail,5,399.00
+ORD-00306,26/06/2026,CUST-0041,SKU-004,Standing Desk,Furniture,LATAM,retail,9,399.00
+ORD-00307,2026-03-15,CUST-0070,SKU-005,Ergonomic Chair,Furniture,LATAM,retail,6,249.00
+ORD-00308,,CUST-0011,SKU-003,USB-C Hub,Electronics,,retail,8,45.50
+ORD-00309,11/07/2026,CUST-0026,SKU-005,Ergonomic Chair,Furniture,AMER,wholesale,5,249.00
+ORD-00310,2026-01-28,CUST-0076,SKU-003,USB-C Hub,Electronics,EMEA,online,1,45.50
+ORD-00311,06-13-2026,CUST-0013,SKU-004,Standing Desk,Furniture,LATAM,retail,8,399.00
+ORD-00312,24/06/2026,CUST-0001,SKU-002,Mechanical Keyboard,Electronics,EMEA,retail,8,129.00
+ORD-00313,2026-06-16,CUST-0037,SKU-008,Coffee Beans 1kg,Grocery,AMER,retail,1,18.90
+ORD-00314,06-16-2026,CUST-0069,SKU-002,Mechanical Keyboard,Electronics,APAC,online,7,129.00
+ORD-00315,10/01/2026,CUST-0051,SKU-003,USB-C Hub,Electronics,LATAM,online,5,45.50
+ORD-00316,2026-01-03,CUST-0078,SKU-001,Wireless Mouse,Electronics,APAC,retail,5,29.99
+ORD-00317,06-14-2026,CUST-0064,SKU-008,Coffee Beans 1kg,Grocery,EMEA,wholesale,8,18.90
+ORD-00318,19/02/2026,CUST-0043,SKU-005,Ergonomic Chair,Furniture,EMEA,wholesale,8,249.00
+ORD-00319,2026-07-03,CUST-0044,SKU-005,Ergonomic Chair,Furniture,AMER,wholesale,4,249.00
+ORD-00320,06-06-2026,CUST-0052,SKU-003,USB-C Hub,Electronics,LATAM,wholesale,6,45.50
+ORD-00321,13/04/2026,CUST-0024,SKU-002,Mechanical Keyboard,Electronics,EMEA,retail,6,129.00
+ORD-00322,2026-01-02,CUST-0031,SKU-004,Standing Desk,Furniture,LATAM,retail,6,399.00
+ORD-00323,05-30-2026,CUST-0002,SKU-005,Ergonomic Chair,Furniture,AMER,wholesale,6,249.00
+ORD-00324,16/01/2026,CUST-0060,SKU-004,Standing Desk,Furniture,AMER,online,7,399.00
+ORD-00325,2026-06-26,CUST-0038,SKU-005,Ergonomic Chair,Furniture,AMER,wholesale,4,249.00
+ORD-00326,02-04-2026,CUST-0059,SKU-004,Standing Desk,Furniture,AMER,retail,9,399.00
+ORD-00327,13/07/2026,CUST-0028,SKU-008,Coffee Beans 1kg,Grocery,EMEA,wholesale,10,18.90
+ORD-00328,2026-05-15,CUST-0047,SKU-002,Mechanical Keyboard,Electronics,APAC,wholesale,2,129.00
+ORD-00329,05-21-2026,CUST-0026,SKU-001,Wireless Mouse,Electronics,EMEA,online,6,29.99
+ORD-00330,30/01/2026,CUST-0075,SKU-008,Coffee Beans 1kg,Grocery,LATAM,online,9,18.90
+ORD-00331,2026-07-27,CUST-0017,SKU-008,Coffee Beans 1kg,Grocery,LATAM,retail,10,18.90
+ORD-00332,05-24-2026,CUST-0040,SKU-001,Wireless Mouse,Electronics,APAC,retail,5,29.99
+ORD-00333,10/07/2026,CUST-0010,SKU-001,Wireless Mouse,Electronics,APAC,retail,6,29.99
+ORD-00334,2026-05-19,CUST-0009,SKU-002,Mechanical Keyboard,Electronics,LATAM,online,5,129.00
+ORD-00335,02-16-2026,CUST-0054,SKU-007,Gel Pen Pack,Stationery,AMER,retail,8,3.20
+ORD-00336,07/04/2026,CUST-0070,SKU-007,Gel Pen Pack,Stationery,EMEA,wholesale,6,3.20
+ORD-00337,2026-02-15,CUST-0051,SKU-002,Mechanical Keyboard,Electronics,EMEA,wholesale,4,129.00
+ORD-00338,,CUST-0039,SKU-001,Wireless Mouse,Electronics,,retail,9,29.99
+ORD-00339,17/05/2026,CUST-0030,SKU-007,Gel Pen Pack,Stationery,EMEA,retail,6,3.20
+ORD-00340,2026-03-12,CUST-0015,SKU-003,USB-C Hub,Electronics,APAC,wholesale,7,45.50
+ORD-00341,03-03-2026,CUST-0013,SKU-001,Wireless Mouse,Electronics,APAC,retail,10,29.99
+ORD-00342,04/03/2026,CUST-0052,SKU-001,Wireless Mouse,Electronics,LATAM,online,9,29.99
+ORD-00343,2026-07-13,CUST-0008,SKU-004,Standing Desk,Furniture,EMEA,wholesale,5,399.00
+ORD-00344,07-28-2026,CUST-0074,SKU-004,Standing Desk,Furniture,AMER,wholesale,10,399.00
+ORD-00345,02/03/2026,CUST-0019,SKU-006,Notebook A5,Stationery,EMEA,retail,5,6.75
+ORD-00346,2026-01-16,CUST-0076,SKU-005,Ergonomic Chair,Furniture,EMEA,wholesale,7,249.00
+ORD-00347,01-13-2026,CUST-0049,SKU-008,Coffee Beans 1kg,Grocery,AMER,wholesale,7,18.90
+ORD-00348,08/02/2026,CUST-0024,SKU-007,Gel Pen Pack,Stationery,LATAM,online,4,3.20
+ORD-00349,2026-07-01,CUST-0060,SKU-005,Ergonomic Chair,Furniture,APAC,wholesale,7,249.00
+ORD-00350,05-23-2026,CUST-0050,SKU-007,Gel Pen Pack,Stationery,EMEA,retail,4,3.20
+ORD-00351,15/06/2026,CUST-0058,SKU-006,Notebook A5,Stationery,AMER,online,9,6.75
+ORD-00352,2026-01-14,CUST-0078,SKU-004,Standing Desk,Furniture,APAC,online,4,399.00
+ORD-00353,05-03-2026,CUST-0043,SKU-004,Standing Desk,Furniture,AMER,online,4,399.00
+ORD-00354,09/07/2026,CUST-0062,SKU-004,Standing Desk,Furniture,EMEA,wholesale,10,399.00
+ORD-00355,2026-04-12,CUST-0071,SKU-004,Standing Desk,Furniture,AMER,retail,7,399.00
+ORD-00356,05-17-2026,CUST-0040,SKU-008,Coffee Beans 1kg,Grocery,AMER,retail,9,18.90
+ORD-00357,30/04/2026,CUST-0061,SKU-008,Coffee Beans 1kg,Grocery,AMER,online,6,18.90
+ORD-00358,,CUST-0029,SKU-006,Notebook A5,Stationery,,wholesale,3,6.75
+ORD-00359,03-08-2026,CUST-0075,SKU-001,Wireless Mouse,Electronics,LATAM,retail,3,29.99
+ORD-00360,26/03/2026,CUST-0073,SKU-004,Standing Desk,Furniture,EMEA,retail,9,399.00
+ORD-00361,2026-03-07,CUST-0063,SKU-006,Notebook A5,Stationery,LATAM,retail,3,6.75
+ORD-00362,02-13-2026,CUST-0070,SKU-006,Notebook A5,Stationery,LATAM,online,9,6.75
+ORD-00363,,CUST-0010,SKU-001,Wireless Mouse,Electronics,,wholesale,1,29.99
+ORD-00364,2026-04-16,CUST-0030,SKU-001,Wireless Mouse,Electronics,APAC,wholesale,3,29.99
+ORD-00365,02-25-2026,CUST-0048,SKU-001,Wireless Mouse,Electronics,APAC,wholesale,10,29.99
+ORD-00366,18/06/2026,CUST-0001,SKU-008,Coffee Beans 1kg,Grocery,LATAM,online,1,18.90
+ORD-00367,2026-05-18,CUST-0003,SKU-005,Ergonomic Chair,Furniture,LATAM,online,2,249.00
+ORD-00368,05-15-2026,CUST-0025,SKU-002,Mechanical Keyboard,Electronics,AMER,retail,5,129.00
+ORD-00369,21/01/2026,CUST-0052,SKU-007,Gel Pen Pack,Stationery,LATAM,wholesale,4,3.20
+ORD-00370,2026-03-18,CUST-0011,SKU-004,Standing Desk,Furniture,APAC,online,7,399.00
+ORD-00371,04-07-2026,CUST-0008,SKU-007,Gel Pen Pack,Stationery,APAC,wholesale,3,3.20
+ORD-00372,08/05/2026,CUST-0043,SKU-002,Mechanical Keyboard,Electronics,APAC,wholesale,1,129.00
+ORD-00373,2026-02-24,CUST-0073,SKU-004,Standing Desk,Furniture,LATAM,retail,1,399.00
+ORD-00374,06-25-2026,CUST-0070,SKU-002,Mechanical Keyboard,Electronics,APAC,online,6,129.00
+ORD-00375,23/02/2026,CUST-0051,SKU-001,Wireless Mouse,Electronics,APAC,retail,3,29.99
+ORD-00376,2026-05-26,CUST-0050,SKU-004,Standing Desk,Furniture,AMER,retail,3,399.00
+ORD-00377,05-09-2026,CUST-0045,SKU-002,Mechanical Keyboard,Electronics,APAC,online,7,129.00
+ORD-00378,20/01/2026,CUST-0079,SKU-004,Standing Desk,Furniture,LATAM,retail,1,399.00
+ORD-00379,2026-07-20,CUST-0063,SKU-005,Ergonomic Chair,Furniture,EMEA,retail,9,249.00
+ORD-00380,04-21-2026,CUST-0075,SKU-007,Gel Pen Pack,Stationery,LATAM,online,10,3.20
+ORD-00381,24/07/2026,CUST-0010,SKU-005,Ergonomic Chair,Furniture,APAC,retail,3,249.00
+ORD-00382,2026-07-02,CUST-0020,SKU-007,Gel Pen Pack,Stationery,LATAM,retail,6,3.20
+ORD-00383,,CUST-0040,SKU-002,Mechanical Keyboard,Electronics,,retail,6,129.00
+ORD-00384,27/01/2026,CUST-0024,SKU-005,Ergonomic Chair,Furniture,LATAM,retail,9,249.00
+ORD-00385,,CUST-0046,SKU-007,Gel Pen Pack,Stationery,,wholesale,2,3.20
+ORD-00386,,CUST-0053,SKU-006,Notebook A5,Stationery,,retail,2,6.75
+ORD-00387,27/05/2026,CUST-0049,SKU-004,Standing Desk,Furniture,EMEA,online,5,399.00
+ORD-00388,2026-03-10,CUST-0009,SKU-005,Ergonomic Chair,Furniture,EMEA,retail,5,249.00
+ORD-00389,03-18-2026,CUST-0010,SKU-007,Gel Pen Pack,Stationery,AMER,retail,4,3.20
+ORD-00390,02/06/2026,CUST-0059,SKU-008,Coffee Beans 1kg,Grocery,APAC,online,5,18.90
+ORD-00391,2026-04-12,CUST-0080,SKU-001,Wireless Mouse,Electronics,LATAM,retail,8,29.99
+ORD-00392,04-21-2026,CUST-0077,SKU-006,Notebook A5,Stationery,EMEA,retail,6,6.75
+ORD-00393,03/05/2026,CUST-0051,SKU-004,Standing Desk,Furniture,AMER,retail,8,399.00
+ORD-00394,2026-03-25,CUST-0051,SKU-004,Standing Desk,Furniture,AMER,online,10,399.00
+ORD-00395,06-01-2026,CUST-0024,SKU-004,Standing Desk,Furniture,APAC,wholesale,8,399.00
+ORD-00396,23/04/2026,CUST-0009,SKU-004,Standing Desk,Furniture,LATAM,wholesale,8,399.00
+ORD-00397,2026-06-12,CUST-0033,SKU-003,USB-C Hub,Electronics,EMEA,wholesale,7,45.50
+ORD-00398,01-19-2026,CUST-0077,SKU-007,Gel Pen Pack,Stationery,LATAM,wholesale,7,3.20
+ORD-00399,,CUST-0047,SKU-007,Gel Pen Pack,Stationery,,wholesale,9,3.20
+ORD-00400,2026-01-28,CUST-0046,SKU-002,Mechanical Keyboard,Electronics,EMEA,wholesale,10,129.00
+ORD-00401,05-25-2026,CUST-0052,SKU-001,Wireless Mouse,Electronics,AMER,retail,2,29.99
+ORD-00402,26/01/2026,CUST-0066,SKU-001,Wireless Mouse,Electronics,EMEA,retail,6,29.99
+ORD-00403,2026-04-29,CUST-0076,SKU-007,Gel Pen Pack,Stationery,EMEA,retail,1,3.20
+ORD-00404,01-27-2026,CUST-0011,SKU-008,Coffee Beans 1kg,Grocery,APAC,wholesale,3,18.90
+ORD-00405,21/03/2026,CUST-0027,SKU-006,Notebook A5,Stationery,LATAM,retail,8,6.75
+ORD-00406,2026-04-23,CUST-0058,SKU-002,Mechanical Keyboard,Electronics,AMER,online,5,129.00
+ORD-00407,07-27-2026,CUST-0003,SKU-001,Wireless Mouse,Electronics,AMER,wholesale,2,29.99
+ORD-00408,09/07/2026,CUST-0023,SKU-003,USB-C Hub,Electronics,EMEA,retail,9,45.50
+ORD-00409,2026-04-29,CUST-0052,SKU-007,Gel Pen Pack,Stationery,EMEA,online,7,3.20
+ORD-00410,01-08-2026,CUST-0026,SKU-007,Gel Pen Pack,Stationery,LATAM,wholesale,7,3.20
+ORD-00411,02/01/2026,CUST-0027,SKU-007,Gel Pen Pack,Stationery,AMER,wholesale,2,3.20
+ORD-00412,2026-07-24,CUST-0024,SKU-002,Mechanical Keyboard,Electronics,AMER,retail,4,129.00
+ORD-00413,01-30-2026,CUST-0063,SKU-008,Coffee Beans 1kg,Grocery,AMER,wholesale,7,18.90
+ORD-00414,31/05/2026,CUST-0046,SKU-007,Gel Pen Pack,Stationery,LATAM,wholesale,3,3.20
+ORD-00415,2026-06-07,CUST-0018,SKU-005,Ergonomic Chair,Furniture,AMER,online,4,249.00
+ORD-00416,01-30-2026,CUST-0019,SKU-005,Ergonomic Chair,Furniture,LATAM,retail,10,249.00
+ORD-00417,28/05/2026,CUST-0024,SKU-003,USB-C Hub,Electronics,LATAM,wholesale,9,45.50
+ORD-00418,2026-05-23,CUST-0037,SKU-003,USB-C Hub,Electronics,EMEA,online,6,45.50
+ORD-00419,06-08-2026,CUST-0046,SKU-008,Coffee Beans 1kg,Grocery,APAC,retail,3,18.90
+ORD-00420,28/07/2026,CUST-0072,SKU-004,Standing Desk,Furniture,LATAM,retail,8,399.00
+ORD-00421,2026-07-01,CUST-0063,SKU-007,Gel Pen Pack,Stationery,EMEA,online,10,3.20
+ORD-00422,07-23-2026,CUST-0038,SKU-001,Wireless Mouse,Electronics,APAC,retail,4,29.99
+ORD-00423,13/02/2026,CUST-0073,SKU-005,Ergonomic Chair,Furniture,LATAM,wholesale,9,249.00
+ORD-00424,2026-05-27,CUST-0070,SKU-002,Mechanical Keyboard,Electronics,AMER,wholesale,1,129.00
+ORD-00425,05-20-2026,CUST-0055,SKU-008,Coffee Beans 1kg,Grocery,APAC,wholesale,4,18.90
+ORD-00426,09/01/2026,CUST-0045,SKU-005,Ergonomic Chair,Furniture,APAC,retail,2,249.00
+ORD-00427,2026-02-23,CUST-0076,SKU-004,Standing Desk,Furniture,AMER,wholesale,10,399.00
+ORD-00428,02-12-2026,CUST-0027,SKU-007,Gel Pen Pack,Stationery,EMEA,online,10,3.20
+ORD-00429,17/05/2026,CUST-0069,SKU-006,Notebook A5,Stationery,EMEA,retail,5,6.75
+ORD-00430,2026-05-27,CUST-0066,SKU-005,Ergonomic Chair,Furniture,APAC,online,7,249.00
+ORD-00431,03-12-2026,CUST-0017,SKU-001,Wireless Mouse,Electronics,EMEA,online,3,29.99
+ORD-00432,05/03/2026,CUST-0051,SKU-006,Notebook A5,Stationery,LATAM,online,10,6.75
+ORD-00433,2026-06-10,CUST-0058,SKU-005,Ergonomic Chair,Furniture,APAC,wholesale,2,249.00
+ORD-00434,05-12-2026,CUST-0048,SKU-007,Gel Pen Pack,Stationery,LATAM,retail,6,3.20
+ORD-00435,18/07/2026,CUST-0012,SKU-001,Wireless Mouse,Electronics,LATAM,wholesale,6,29.99
+ORD-00436,2026-07-23,CUST-0028,SKU-002,Mechanical Keyboard,Electronics,LATAM,online,8,129.00
+ORD-00437,03-24-2026,CUST-0044,SKU-005,Ergonomic Chair,Furniture,EMEA,wholesale,8,249.00
+ORD-00438,24/06/2026,CUST-0006,SKU-006,Notebook A5,Stationery,APAC,wholesale,8,6.75
+ORD-00439,2026-02-01,CUST-0021,SKU-001,Wireless Mouse,Electronics,LATAM,retail,1,29.99
+ORD-00440,02-21-2026,CUST-0017,SKU-007,Gel Pen Pack,Stationery,AMER,online,5,3.20
+ORD-00441,17/06/2026,CUST-0011,SKU-002,Mechanical Keyboard,Electronics,AMER,wholesale,3,129.00
+ORD-00442,2026-04-12,CUST-0030,SKU-001,Wireless Mouse,Electronics,LATAM,wholesale,2,29.99
+ORD-00443,01-01-2026,CUST-0010,SKU-002,Mechanical Keyboard,Electronics,EMEA,wholesale,4,129.00
+ORD-00444,,CUST-0044,SKU-008,Coffee Beans 1kg,Grocery,,online,7,18.90
+ORD-00445,2026-05-03,CUST-0050,SKU-003,USB-C Hub,Electronics,APAC,wholesale,2,45.50
+ORD-00446,03-22-2026,CUST-0039,SKU-002,Mechanical Keyboard,Electronics,EMEA,retail,3,129.00
+ORD-00447,18/01/2026,CUST-0002,SKU-003,USB-C Hub,Electronics,EMEA,retail,6,45.50
+ORD-00448,2026-06-10,CUST-0053,SKU-004,Standing Desk,Furniture,LATAM,online,2,399.00
+ORD-00449,02-05-2026,CUST-0076,SKU-002,Mechanical Keyboard,Electronics,LATAM,retail,7,129.00
+ORD-00450,22/07/2026,CUST-0036,SKU-006,Notebook A5,Stationery,APAC,online,9,6.75
+ORD-00451,2026-07-19,CUST-0004,SKU-005,Ergonomic Chair,Furniture,AMER,online,9,249.00
+ORD-00452,07-11-2026,CUST-0007,SKU-004,Standing Desk,Furniture,EMEA,retail,7,399.00
+ORD-00453,03/03/2026,CUST-0077,SKU-002,Mechanical Keyboard,Electronics,APAC,wholesale,1,129.00
+ORD-00454,2026-03-23,CUST-0073,SKU-006,Notebook A5,Stationery,LATAM,retail,9,6.75
+ORD-00455,07-15-2026,CUST-0010,SKU-003,USB-C Hub,Electronics,APAC,wholesale,2,45.50
+ORD-00456,09/03/2026,CUST-0008,SKU-001,Wireless Mouse,Electronics,LATAM,wholesale,5,29.99
+ORD-00457,2026-04-19,CUST-0011,SKU-007,Gel Pen Pack,Stationery,EMEA,retail,2,3.20
+ORD-00458,01-21-2026,CUST-0027,SKU-005,Ergonomic Chair,Furniture,EMEA,wholesale,6,249.00
+ORD-00459,31/05/2026,CUST-0009,SKU-007,Gel Pen Pack,Stationery,AMER,wholesale,7,3.20
+ORD-00460,2026-01-15,CUST-0056,SKU-004,Standing Desk,Furniture,APAC,retail,10,399.00
+ORD-00461,03-21-2026,CUST-0023,SKU-001,Wireless Mouse,Electronics,APAC,online,3,29.99
+ORD-00462,11/02/2026,CUST-0045,SKU-001,Wireless Mouse,Electronics,AMER,online,6,29.99
+ORD-00463,2026-07-11,CUST-0035,SKU-003,USB-C Hub,Electronics,APAC,online,6,45.50
+ORD-00464,03-11-2026,CUST-0034,SKU-007,Gel Pen Pack,Stationery,APAC,retail,8,3.20
+ORD-00465,15/01/2026,CUST-0073,SKU-006,Notebook A5,Stationery,EMEA,retail,3,6.75
+ORD-00466,2026-07-17,CUST-0074,SKU-005,Ergonomic Chair,Furniture,APAC,online,9,249.00
+ORD-00467,01-12-2026,CUST-0002,SKU-001,Wireless Mouse,Electronics,EMEA,online,8,29.99
+ORD-00468,09/04/2026,CUST-0023,SKU-006,Notebook A5,Stationery,APAC,wholesale,7,6.75
+ORD-00469,2026-03-24,CUST-0041,SKU-004,Standing Desk,Furniture,AMER,online,10,399.00
+ORD-00470,01-31-2026,CUST-0007,SKU-006,Notebook A5,Stationery,EMEA,online,9,6.75
+ORD-00471,13/04/2026,CUST-0060,SKU-001,Wireless Mouse,Electronics,AMER,retail,6,29.99
+ORD-00472,2026-05-22,CUST-0048,SKU-002,Mechanical Keyboard,Electronics,EMEA,retail,10,129.00
+ORD-00473,07-09-2026,CUST-0060,SKU-005,Ergonomic Chair,Furniture,AMER,wholesale,8,249.00
+ORD-00474,07/07/2026,CUST-0032,SKU-004,Standing Desk,Furniture,EMEA,online,7,399.00
+ORD-00475,2026-03-01,CUST-0002,SKU-001,Wireless Mouse,Electronics,AMER,online,7,29.99
+ORD-00476,01-27-2026,CUST-0031,SKU-005,Ergonomic Chair,Furniture,LATAM,retail,1,249.00
+ORD-00477,02/07/2026,CUST-0006,SKU-003,USB-C Hub,Electronics,EMEA,wholesale,7,45.50
+ORD-00478,2026-04-28,CUST-0011,SKU-006,Notebook A5,Stationery,APAC,wholesale,3,6.75
+ORD-00479,01-20-2026,CUST-0008,SKU-007,Gel Pen Pack,Stationery,LATAM,wholesale,3,3.20
+ORD-00480,16/03/2026,CUST-0041,SKU-004,Standing Desk,Furniture,LATAM,wholesale,6,399.00
+ORD-00481,2026-04-26,CUST-0010,SKU-006,Notebook A5,Stationery,EMEA,online,10,6.75
+ORD-00482,02-09-2026,CUST-0058,SKU-002,Mechanical Keyboard,Electronics,LATAM,retail,7,129.00
+ORD-00483,18/05/2026,CUST-0027,SKU-002,Mechanical Keyboard,Electronics,LATAM,retail,8,129.00
+ORD-00484,2026-01-31,CUST-0039,SKU-005,Ergonomic Chair,Furniture,APAC,online,6,249.00
+ORD-00485,01-24-2026,CUST-0046,SKU-003,USB-C Hub,Electronics,LATAM,wholesale,1,45.50
+ORD-00486,08/03/2026,CUST-0023,SKU-005,Ergonomic Chair,Furniture,APAC,retail,8,249.00
+ORD-00487,2026-01-25,CUST-0018,SKU-004,Standing Desk,Furniture,APAC,online,1,399.00
+ORD-00488,02-03-2026,CUST-0052,SKU-004,Standing Desk,Furniture,AMER,wholesale,2,399.00
+ORD-00489,28/07/2026,CUST-0009,SKU-005,Ergonomic Chair,Furniture,EMEA,wholesale,8,249.00
+ORD-00490,2026-01-24,CUST-0043,SKU-003,USB-C Hub,Electronics,APAC,online,8,45.50
+ORD-00491,02-13-2026,CUST-0056,SKU-001,Wireless Mouse,Electronics,LATAM,retail,1,29.99
+ORD-00492,24/06/2026,CUST-0046,SKU-007,Gel Pen Pack,Stationery,EMEA,online,5,3.20
+ORD-00493,2026-04-25,CUST-0005,SKU-005,Ergonomic Chair,Furniture,EMEA,wholesale,5,249.00
+ORD-00494,04-16-2026,CUST-0062,SKU-008,Coffee Beans 1kg,Grocery,APAC,online,5,18.90
+ORD-00495,05/02/2026,CUST-0068,SKU-007,Gel Pen Pack,Stationery,EMEA,wholesale,9,3.20
+ORD-00496,2026-04-08,CUST-0046,SKU-001,Wireless Mouse,Electronics,LATAM,wholesale,8,29.99
+ORD-00497,05-25-2026,CUST-0050,SKU-006,Notebook A5,Stationery,AMER,online,1,6.75
+ORD-00498,02/06/2026,CUST-0036,SKU-006,Notebook A5,Stationery,APAC,retail,9,6.75
+ORD-00499,2026-07-16,CUST-0030,SKU-006,Notebook A5,Stationery,EMEA,online,4,6.75
+ORD-00500,03-10-2026,CUST-0008,SKU-004,Standing Desk,Furniture,EMEA,wholesale,7,399.00
+ORD-00182,,CUST-0067,SKU-004,Standing Desk,Furniture,,retail,8,399.00
+ORD-00479,01-20-2026,CUST-0008,SKU-007,Gel Pen Pack,Stationery,LATAM,wholesale,3,3.20
+ORD-00430,2026-05-27,CUST-0066,SKU-005,Ergonomic Chair,Furniture,APAC,online,7,249.00
+ORD-00433,2026-06-10,CUST-0058,SKU-005,Ergonomic Chair,Furniture,APAC,wholesale,2,249.00
+ORD-00089,,CUST-0070,SKU-002,Mechanical Keyboard,Electronics,,online,6,129.00
+ORD-00091,2026-06-09,CUST-0017,SKU-001,Wireless Mouse,Electronics,LATAM,wholesale,2,29.99
+ORD-00122,07-21-2026,CUST-0076,SKU-005,Ergonomic Chair,Furniture,EMEA,retail,2,249.00
+ORD-00304,2026-05-17,CUST-0046,SKU-008,Coffee Beans 1kg,Grocery,AMER,wholesale,8,18.90
+ORD-00163,2026-05-16,CUST-0035,SKU-006,Notebook A5,Stationery,EMEA,retail,8,6.75
+ORD-00413,01-30-2026,CUST-0063,SKU-008,Coffee Beans 1kg,Grocery,AMER,wholesale,7,18.90
